@@ -1,4 +1,0 @@
-from elasticsearch import *
-
-
-
