@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Testlib" type="PLAIN_TEXT" />
       <mapping pattern="locationsja" type="PLAIN_TEXT" />
+      <mapping pattern="TraditionalChinese" type="PLAIN_TEXT" />
       <mapping pattern="locaitonsja" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
     </extensionMap>
